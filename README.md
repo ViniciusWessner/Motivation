@@ -5,8 +5,8 @@ App desenvolvido durante o curso de [Desenvolvimento de Aplicativos Android usan
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="#" width="260">&emsp;
-<img src="#" width="260">&emsp;
+<img src="https://github.com/ViniciusWessner/Motivacao/blob/main/img/img1.png" width="260">&emsp;
+<img src="https://github.com/ViniciusWessner/Motivacao/blob/main/img/img2.png" width="260">&emsp;
 <img src="#" width="260">
 
 ## 📱 Tecnologias Utilizadas
