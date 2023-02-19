@@ -1,5 +1,6 @@
 # Motivation
-App desenvolvido durante o curso de [Desenvolvimento de Aplicativos Android usando Kotlin](https://www.udemy.com/course/curso-desenvolvedor-kotlin/) do professor Gabriel voltado para adquirir um primeiro contato com o android studio
+App desenvolvido durante o curso de [Desenvolvimento de Aplicativos Android usando Kotlin](https://www.udemy.com/course/curso-desenvolvedor-kotlin/) do professor Gabriel voltado para adquirir conhecimentos com o desenvolvimento mobile.
+Durante o projeto foi possivel adquirir diversos conhecimentos da lingugem kotlin e do grandiossimo android studio, abaixo deixei um pouco mais detalhado todo o conhecimento que consegui obter
 
 
 
