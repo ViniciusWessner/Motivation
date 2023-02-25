@@ -36,12 +36,16 @@ Durante o projeto foi possivel adquirir diversos conhecimentos da lingugem kotli
 - Bindpara recuperar components de UI
 
 ## Idiomas do app
-🇧🇷 🇺🇸 🇫🇷
+   - :brazil:
+   - :fr:
+   - :us:
 
 
 ### 📑 TODO
-[ ] Aplicar novos conceitos de UI no decorrer do aprendizado para melhorar a interface
-[x] Internacionalização do app
+
+- [ ] Aplicar novos conceitos de UI no decorrer do aprendizado para melhorar a interface
+- [x] Internacionalização do app
+
 
 ## 🖋 Autor
 Vinicius Wessner ([LinkedIn](https://github.com/viniciuswessner/))
